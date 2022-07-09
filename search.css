@@ -1,0 +1,191 @@
+body {
+    color: white;
+    background: linear-gradient(
+        to right,
+        black 0%,
+        black 19%,
+        rgb(23, 22, 22) 19%,
+        #151414 100%
+    );
+
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+#logo {
+    color: white;
+    position: absolute;
+    left: 2%;
+    bottom:92%;
+}
+
+#head {
+    position: absolute;
+    left: 4.8%;
+    bottom: 90%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#icon1 {
+    position: absolute;
+    top: 12%;
+    left: 2%;
+    font-size: 30px;
+}
+
+#icon2 {
+    position: absolute;
+    top: 18%;
+    left: 2%;
+    font-size: 30px;
+}
+
+#libicon {
+    position: absolute;
+    top: 24.5%;
+    left: 2.1%;
+    width: 25px;
+}
+
+#home {
+    position: absolute;
+    top: 10.2%;
+    left: 5%;
+}
+
+#hme {
+    color: white;
+}
+
+#search {
+    position: absolute;
+    top: 16.2%;
+    left: 5%;
+}
+
+#sch {
+    color: white;
+}
+
+#lib {
+    position: absolute;
+    top: 22.2%;
+    left: 5%;
+}
+
+#libraryicon {
+    color: white;
+}
+
+#add {
+    color: black;
+    border: 1px solid black;
+    background-color: white;
+    padding: 5px;
+    border-radius: 4px;
+    position: absolute;
+    top: 34.2%;
+    left: 2%;
+}
+
+#like {
+    position: absolute;
+    top: 40.2%;
+    left: 2.1%;
+    width: 25px;
+    border-radius: 4px;
+    position: absolute;
+}
+
+#cp {
+    position: absolute;
+    top: 32.2%;
+    left: 5%;
+}
+
+#lk {
+    position: absolute;
+    top: 38.2%;
+    left: 5%;
+    
+}
+
+hr {
+    width: 15%;
+    position: absolute;
+    top: 45.2%;
+    left: 2%;
+    opacity: 0.1;
+    border: 0.1px solid white;
+
+}
+
+#leftarrow {
+    position: absolute;
+    left: 20%;
+    top: 2.5%;
+    border: 0.1px solid rgb(9, 9, 9);
+    border-radius: 100%;
+    padding: 3px 13px 4px 10px;
+    margin-left: 10px;
+    background-color: rgb(9, 9, 9);
+}
+
+#rightarrow {
+    position: absolute;
+    left: 23%;
+    top: 2.5%;
+    border: 0.1px solid rgb(9, 9, 9);
+    border-radius: 100%;
+    padding: 3px 10px 4px 13px;
+    margin-left: 10px;
+    background-color: rgb(9, 9, 9);
+}
+
+#searchBar {
+    position: absolute;
+    left: 27%;
+    top: 2.1%;
+    width: 20%;
+    height: 4.5%;
+    border: 0px solid black;
+    border-radius: 20px;
+    padding: 3px 1px 2px 30px;
+}
+
+#srch {
+    color: black;
+    position: absolute;
+    left: 27%;
+    top: 2.5%;
+}
+
+#browse {
+    font-size: 22px;
+    font-weight: 700;
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    left: 21%;
+    bottom: 76%;
+}
+
+#pod {
+    width: 12.5%;
+    position: absolute;
+    left: 21%;
+    top: 23.2%;
+}
+
+#mff {
+    width: 13%;
+    position: absolute;
+    left: 35%;
+    top: 22.7%;
+}
+
+#charts {
+    width: 12.8%;
+    position: absolute;
+    left: 49.5%;
+    top: 23%;
+}
